@@ -1,0 +1,191 @@
+@import url("//cdn.web-fonts.ge/fonts/bpg-glaho-web-caps/css/bpg-glaho-web-caps.min.css");
+
+body {
+   
+}
+
+
+#flexbox{
+  display: flex;
+  margin: 0 auto;
+  margin-top: 100px;
+  background-color: white;
+  width: 320px;
+  height: 320px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  border-radius: 10px;
+}
+
+
+h1{
+  position: absolute;
+  top: -10px;
+  font-size: 15px;
+ font-family: "ALK Rounded Mtav Med", sans-serif;
+ text-align: center;
+ top: 5px;
+
+}
+
+span{
+  color: #AC1E1E;
+
+}
+
+h2{
+  
+  margin: 0 auto;
+  margin-top: 15px;
+  font-family: "BPG Glaho WEB Caps", sans-serif;
+}
+
+hr{
+  position: relative;
+  top: 50px;
+  width: 310px;
+  border-top: 1px solid #8c8b8b;
+}
+
+#flexbox .mySlides{
+  position: absolute;
+  width: 270px;
+  border-radius: 10px;
+  margin: 10px 20px;
+  padding: 5px;
+  margin-top: 140px;
+  
+  
+
+}
+
+ul{
+  font-family: "BPG Glaho WEB Caps", sans-serif;
+  position: absolute;
+  font-size: 12px;
+  margin-top: 55px;
+}
+
+
+
+
+.phase2 #flexbox{
+  position: relative;
+  top: -30px;
+}
+
+
+
+
+.phase2 .mySlides{
+  position: absolute;
+  width: 300px;
+  border-radius: 10px;
+  margin: 10px 20px;
+  padding: 5px;
+  margin-top: 140px;
+  
+  
+ 
+}
+
+
+#flexbox:hover{
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+
+#flexbox .phase3 .mySlides{
+  position: absolute;
+  width: 300px;
+  height: 100px;
+  border-radius: 10px;
+  margin: 10px 20px;
+  padding: 5px;
+  margin-top: 140px;
+}
+
+.phase3 .mySlides{
+  position: absolute;
+  width: 300px;
+  border-radius: 10px;
+  margin: 10px 20px;
+  padding: 5px;
+  margin-top: 250px;
+  
+}
+
+#flexboxt{
+  display: flex;
+  margin: 0 auto;
+  margin-top: 100px;
+  background-color: white;
+  width: 320px;
+  height: 380px; 
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  border-radius: 10px;
+}
+
+#flexboxt .mySlides{
+  position: absolute;
+  width: 280px;
+  border-radius: 10px;
+  margin: 10px 20px;
+  padding: 5px;
+  margin-top: 200px;
+  margin-left: 15px;
+  
+
+}
+
+#flexboxt:hover{
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+
+#flexboxtt{
+  display: flex;
+  margin: 0 auto;
+  margin-top: 100px;
+  background-color: white;
+  width: 320px;
+  height: 400px; 
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  border-radius: 10px;
+}
+
+#flexboxtt .mySlides{
+  position: absolute;
+  width: 280px;
+  height: 175px;
+  border-radius: 10px;
+  margin: 10px 20px;
+  padding: 5px;
+  margin-top: 200px;
+  margin-left: 15px;
+  
+
+}
+
+#flexboxtt:hover{
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+
+.enddiv{
+  
+}
+
+
+.center{
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.mrhr{
+  position: relative;
+  top: 10px;
+}
